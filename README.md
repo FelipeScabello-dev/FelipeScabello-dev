@@ -2,23 +2,6 @@
 
 Me chamo Felipe Scabello, tenho 20 anos e sou natural do Paraná. Atualmente estou cursando bacharelado em Engenharia de Software na Unicesumar e tenho grande interesse pela área da tecnologia. Estou sempre em busca de novos conhecimentos e experiências que me ajudem a evoluir como desenvolvedor.
 
-<p align="left">
-    <a href="https://github.com/FelipeScabello-dev?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/FelipeScabello-dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
-        />
-    </a>
-    <a href="https://github.com/FelipeScabello-dev?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/FelipeScabello-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -101,5 +84,4 @@ Me chamo Felipe Scabello, tenho 20 anos e sou natural do Paraná. Atualmente est
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeScabello-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
   />
 </p>
-
 
