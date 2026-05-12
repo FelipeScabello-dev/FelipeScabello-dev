@@ -1,6 +1,6 @@
 #  Felipe Scabello
 
-Me chamo Felipe Scabello, tenho 20 anos e sou natural do Paraná. Atualmente estou cursando bacharelado em Engenharia de Software na Unicesumar e tenho grande interesse pela área da tecnologia. Estou sempre em busca de novos conhecimentos e experiências que me ajudem a evoluir como desenvolvedor.
+Me chamo Felipe Scabello, tenho 21 anos e sou natural do Paraná. Atualmente estou cursando bacharelado em Engenharia de Software na Unicesumar e tenho grande interesse pela área da tecnologia. Estou sempre em busca de novos conhecimentos e experiências que me ajudem a evoluir como desenvolvedor.
 
 ---
 
